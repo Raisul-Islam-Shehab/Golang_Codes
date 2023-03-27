@@ -1,1 +1,1 @@
-# All my golang code practices are included here
+# All my golang coding practices are included here
